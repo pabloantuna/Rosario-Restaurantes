@@ -1,0 +1,68 @@
+body{
+    background-image: url("../images/fondoposible2\ sin\ madera.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+#general{
+    background-color: #ffff;
+    padding:1.2vh;
+    padding-top: 0vh;
+}
+
+.centradito{
+    margin-left: 2vh;
+}
+
+.color{
+    background-color: #F0EFE9;
+    padding: 1.2vh;
+}
+/*
+#header{
+}
+*/
+#imghome{
+    cursor:pointer;
+}
+
+.espdemargen{
+    margin-right: 0.25vh;
+    margin-left: 0.5vh;
+}
+/*
+.mider{
+    
+}
+*/
+/*.espdermg{
+    margin-right: 2vh;
+}*/
+
+.centra2{
+    margin-left:3vh;
+    margin-right: 3vh;
+}
+
+.centra22{
+    margin-left: 3vh;
+    margin-right: 0vh;
+}
+
+.clasenueva{
+    background-color: #ffffff;
+    padding: 1.2vh;
+    margin-bottom: 1vh;
+    /*margin-right: 10vh;*/
+}
+
+.imgcentrada{
+    margin:auto;
+}
+
+#elRaptor{
+    position:"fixed";
+	bottom: "-700px";
+	right : "0";
+	display : "block";
+}

@@ -1,0 +1,16 @@
+Mejoras a realizar a la pagina Rosario Restaurantes utilizando JS (JavaScript):
+
+Realmente por como está mi página, viendo que ya aplique JS en lo que se me habia ocurrido anteriormente
+y pensando a qué apunta no se me ocurre nada que mejorar utilizando JS. 
+Pero por decir algo podría decir:
+
+- En el formulario al seleccionar un precio que resalte lo que seleccionaste
+- Al revisar contraseña poner un marco verde si coinciden y tienen largo >= 8
+- Al revisar contraseñas poner un marco rojo si no coinciden o no tiene largo >= 8
+- Al revisar contraseñas poner un texto en rojo diciendo que las mismas no coinciden (ya hecho)
+- Al apretar el botón de crear cuenta al completar el formulario mostrar un cartel preguntando si está seguro de querer enviarlo
+- Al cargar la pagina de miperfil que ponga en color verde y resalte los precios seleccionados, además de funcionar el primer item de estas mejroas para esta vista tambien
+- En cambiar contraseña: Al revisar contraseñas poner un marco rojo si no coinciden o no tiene largo >= 8
+- En cambiar contraseña: Al revisar contraseñas poner un texto en rojo diciendo que las mismas no coinciden
+- En cambiar contraseña: Al revisar contraseña poner un marco verde si coinciden y tienen largo >= 8
+- En listado de restaurantes hacer que haya 2 colores y a los de posiciones impares les toque uno y a los de pares les toque otro

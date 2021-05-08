@@ -1,0 +1,48 @@
+body{
+    background-image: url("../../images/fondoposible2\ sin\ madera.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+#general{
+    background-color: #ffff;
+    padding:1.2vh;
+    padding-top: 0vh;
+}
+
+.color{
+    background-color: #F0EFE9;
+    padding: 1.2vh;
+}
+
+#imghome{
+    cursor:pointer;
+}
+
+.espdemargen{
+    margin-right: 0.25vh;
+    margin-left: 0.5vh;
+}
+
+.centra2{
+    margin-left:3vh;
+    margin-right: 3vh;
+}
+
+.centra22{
+    margin-left: 3vh;
+    margin-right: 0vh;
+}
+
+/* input[type=email]:invalid{
+    border: solid red;
+}
+
+input[type=email]:valid{
+    border: solid green;
+}
+
+input[type=password]{
+    border: solid white;
+} */
+

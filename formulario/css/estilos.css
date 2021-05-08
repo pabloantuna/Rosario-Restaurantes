@@ -1,0 +1,113 @@
+body{
+    background-image: url("../../images/fondoposible2\ sin\ madera.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+#general{
+    background-color: #ffff;
+    padding:1.2vh;
+    padding-top: 0vh;
+}
+
+.centradito{
+    margin-left: 2vh;
+}
+
+.color{
+    background-color: #F0EFE9;
+    padding: 1.2vh;
+}
+
+/*#header{
+    margin-bottom: 1vh;
+}*/
+
+#imghome{
+    cursor:pointer;
+}
+
+.desplazamiento{
+    margin-left: 18vh;
+}
+
+.desplazamientom{
+    margin-left: 24.5vh;
+}
+
+.espdemargen{
+    margin-right: 0.25vh;
+    margin-left: 0.5vh;
+}
+
+.titulocss{
+    background-color: rgba(228, 110, 13, 0.897);
+    height: 8vh;
+    font-family: Verdana;
+    font-size: 1.5vh;
+    padding-top: 2vh;
+    margin-bottom: 1.2vh;
+    color: #ffff;
+}
+
+.bottomcss{
+    background-color: rgba(228, 110, 13, 0.897);
+    height: 8vh;
+    padding-top: 1.4vh; 
+}
+
+.padeo{
+    padding-left: 1.2vh;
+    padding-right: 1.2vh;
+}
+
+.padeo2{
+    margin-left: 21vh;
+    color: red;
+}
+
+#botonenvio:disabled{
+    background-color: gray;
+}
+
+.centra2{
+    margin-left:3vh;
+    margin-right: 3vh;
+}
+
+.centra22{
+    margin-left: 3vh;
+    margin-right: 0vh;
+}
+
+/* #inputEmail3:invalid{
+    border: solid red;
+}
+
+#inputEmail3:valid{
+    border: solid green;
+} */
+
+input[type=text]{
+    border: solid white;
+}
+
+/* input[type=email][value=null]{
+    border: solid white;
+} */
+
+input[type=email]:invalid{
+    border: solid red;
+}
+
+input[type=email]:valid{
+    border: solid green;
+}
+
+input[type=password]{
+    border: solid white;
+}
+
+input[type=number]{
+    border: solid white;
+}
